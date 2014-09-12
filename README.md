@@ -1,26 +1,21 @@
 # Pairus
 
-TODO: Write a gem description
+Pairus is a script that supports remote pairing.  It assumes the approach is to use tmux and an amazon instance
+that your partner will connect to.  Your development machine connects to the amazon instance with an ssh
+reverse tunnel.
 
 ## Installation
-
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'pairus'
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
 
     $ gem install pairus
 
 ## Usage
 
-TODO: Write usage instructions here
+pair commands:
+### start
+### close_pair
+### stop
+### attach
+### status
 
 ## Contributing
 
