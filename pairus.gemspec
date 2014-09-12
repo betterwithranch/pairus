@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Pairus::VERSION
   spec.authors       = ["Craig Israel"]
   spec.email         = ["craig_israel@onlifehealth.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = "Script for managing remote pairing"
+  spec.description   = "Script for managing remote pairing"
   spec.homepage      = ""
   spec.license       = "MIT"
 
